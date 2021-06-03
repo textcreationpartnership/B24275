@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The honour of the gentle-craft expressed in three stories: the first o[f] Hugh and fair Winifred. The second of Crispin and Crispiannus. The third of Sir Symon Eyre; wh[o] all professed the gentle-craft, and were shoo-makers. Newly written. With pleasant new sings to be sung on Crispianus nigh[t.]</title>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24275</idno><idno type="EEBO-CITATION">99827212</idno>
+  <idno type="VID">207508</idno>
+  <idno type="EEBO-PROQUEST">2248502050</idno>
+  
+            <idno type="STC">Wing H2597A</idno>
+            <idno type="PROQUEST">99827212</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99827212e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24275)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207508)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1888:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The honour of the gentle-craft expressed in three stories: the first o[f] Hugh and fair Winifred. The second of Crispin and Crispiannus. The third of Sir Symon Eyre; wh[o] all professed the gentle-craft, and were shoo-makers. Newly written. With pleasant new sings to be sung on Crispianus nigh[t.]</title>
+               </titleStmt>
+               <extent>[24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by A. Clark for T. Passenger on London Bridg [sic],</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication conjectured by cataloger.</note>
+                  <note>Title page woodcut.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A B⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207508:1"/>
+            <p>The honour of the Gentle-Craft Expressed in three stories: The first o<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Hugh</hi> and fair <hi>Winifred.</hi> The second of <hi>Crispin</hi> and <hi>Crispiannus.</hi> The third of Sir <hi>Symon Eyre,</hi> wh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> all professed the Gentle-craft, and were Shoo-makers.</p>
+            <p>
+               <hi>Newly written.</hi>
+            </p>
+            <p>With pleasant new songs to be sung on <hi>Crispianus</hi> nigh<gap reason="illegible: right margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+            </p>
+            <figure>
+               <figDesc>woodcut of man kneeling before gentlewoman</figDesc>
+            </figure>
+            <p>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rinted by <hi>A. Clark</hi> for <hi>T. Passenger</hi> on <hi>London</hi> Bridg, 1674</p>
+            <pb facs="tcp:207508:2"/>
+            <pb facs="tcp:207508:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:207508:3"/>
+            <head>Of Saint <hi>Winifreds</hi> Well.</head>
+            <lg>
+               <l>FAir <hi>Winifred</hi> a Virgin was,</l>
+               <l>Who from the Brittains came,</l>
+               <l>Being Daughter to <hi>Donwallo,</hi> who</l>
+               <l>In <hi>Flint-shire</hi> then did raigne.</l>
+            </lg>
+            <lg>
+               <l>All offers she of love refus'd,</l>
+               <l>And to her prayers did return;</l>
+               <l>And like a taper of Virgins wax,</l>
+               <l>With holy flames did burn.</l>
+            </lg>
+            <lg>
+               <l>And as she liv'd, so did she dye.</l>
+               <l>As fame, report, doth tell.</l>
+               <l>By that same spring which yet is cal'd,</l>
+               <l>Saint <hi>Winifreds</hi> fair Well.</l>
+            </lg>
+            <lg>
+               <l>Which of her holy virgin life,</l>
+               <l>Doth still these tokens show:</l>
+               <l>The spring is clear, the Mosse is sweet</l>
+               <l>That round about doth grow.</l>
+            </lg>
+            <div n="1" type="chapter">
+               <pb facs="tcp:207508:3"/>
+               <head>
+                  <hi>Chap.</hi> 1.
+<q>
+                     <l>
+                        <hi>Of Sir <hi>Hughes</hi> love to <hi>Winifred;</hi>
+                        </hi>
+                     </l>
+                     <l>
+                        <hi>Who suffered death like lovers true:</hi>
+                     </l>
+                     <l>
+                        <hi>The reason of the Gentle-Craft,</hi>
+                     </l>
+                     <l>
+                        <hi>And S. <hi>Hughes</hi> bones you here may view.</hi>
+                     </l>
+                  </q>
+               </head>
+               <lg>
+                  <l>WHen <hi>Cupid</hi> with his golden bow</l>
+                  <l>Had shot Sir <hi>Hugh</hi> unto the heart,</l>
+                  <l>Then he a lovers griefe did know,</l>
+                  <l>For wounds of love doe inward smart;</l>
+                  <l>But that which did increase his pain,</l>
+                  <l>Was fair <hi>Winifreds</hi> disdain.</l>
+               </lg>
+               <lg>
+                  <l>For often times he sought her love,</l>
+                  <l>And by fairest meanes assaid,</l>
+                  <l>If that her fansy he might move,</l>
+                  <l>Who was resolv'd to live a maid,</l>
+                  <l>To gain her love Sir <hi>Hugh</hi> did try,</l>
+                  <l>But <hi>Winifred</hi> did still deny.</l>
+               </lg>
+               <lg>
+                  <l>Who having but some years before,</l>
+                  <l>Receiv'd the Christian faith of late:</l>
+                  <l>Her former sinnes she did deplore,</l>
+                  <l>Forsaking all her fathers state.</l>
+                  <l>And to her heades and prayers fell,</l>
+                  <l>Living by a Springing well.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:4"/>
+                  <l>Which when once <hi>Hugh</hi> did hear,</l>
+                  <l>Vnto the well he did repair,</l>
+                  <l>And found his <hi>Winifred</hi> fiting there</l>
+                  <l>Like an angel bright and fair:</l>
+                  <l>Whom with these words he did salute,</l>
+                  <l>And thus began to urge his suite.</l>
+               </lg>
+               <lg>
+                  <l>All health to fairest <hi>Winifred,</hi>
+                  </l>
+                  <l>Have pity on me dearest love,</l>
+                  <l>Restore my joyes which now are fled:</l>
+                  <l>And of my service now approve,</l>
+                  <l>Let me not dye thus unregarded,</l>
+                  <l>Love with love should be rewarded.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>Winifred</hi> with angry look,</l>
+                  <l>From chiding him could scarse refrain,</l>
+                  <l>And having in her hand a book,</l>
+                  <l>She mildly thus reply'd again:</l>
+                  <l>Sir <hi>Hugh,</hi> leave off to seek my love,</l>
+                  <l>Which I have plac'd on things above,</l>
+               </lg>
+               <lg>
+                  <l>And take this answer once for all</l>
+                  <l>With this sir <hi>Hugh</hi> to weep began,</l>
+                  <l>And like a living funeral,</l>
+                  <l>He went from thence both pale and wan,</l>
+                  <l>And being full of grief and woe,</l>
+                  <l>Vnto the Sea resolves to go.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:4"/>
+                  <l>And quickly he arriv'd in <hi>France,</hi>
+                  </l>
+                  <l>Where traviling on to <hi>Italy,</hi>
+                  </l>
+                  <l>Fair Ladies did begin to glance</l>
+                  <l>Vpon sir <hi>Hugh</hi> with wonton eye.</l>
+                  <l>But yet he thought their Beauty rare,</l>
+                  <l>Could not with <hi>Winifred</hi> compare.</l>
+               </lg>
+               <lg>
+                  <l>And when to <hi>Venice</hi> once he came,</l>
+                  <l>The Curtezans much love did shew,</l>
+                  <l>To raise in him an amorous flame,</l>
+                  <l>But they in vain the fire did blow:</l>
+                  <l>For fitting like a male-content,</l>
+                  <l>On <hi>Winifred</hi> his thoughts he bent.</l>
+               </lg>
+               <lg>
+                  <l>Nor could they win him by their art,</l>
+                  <l>Which onely brought into his mind,</l>
+                  <l>The love of her to whom his heart,</l>
+                  <l>Like to a prisoner was confin'd,</l>
+                  <l>For still these flames did freshly burn,</l>
+                  <l>Which made him back again return.</l>
+               </lg>
+               <lg>
+                  <l>And being now for <hi>England</hi> bound,</l>
+                  <l>The Ship did sail with gentle winds,</l>
+                  <l>Till by and by they quickly found,</l>
+                  <l>That raging <hi>Neptune</hi> was inclin'd</l>
+                  <l>To cast the Ship and all away:</l>
+                  <l>Which made sir <hi>Hugh</hi> devoutly pray:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:5"/>
+                  <l>And at the last his prayers were heard,</l>
+                  <l>For now the day began to clear:</l>
+                  <l>And <hi>Englands</hi> chaulky shore appeared,</l>
+                  <l>So that the Ship did anchor there,</l>
+                  <l>And here sir <hi>Hugh</hi> did come to shore,</l>
+                  <l>At <hi>Harwich</hi> very weake and poore.</l>
+               </lg>
+               <lg>
+                  <l>For all his money being gone,</l>
+                  <l>You may suppose his heart was sad:</l>
+                  <l>And to himself he made great moane</l>
+                  <l>Vntil he met a merry lad:</l>
+                  <l>Who was a Shoo-maker by trade,</l>
+                  <l>Who bid him not to be dismade</l>
+               </lg>
+               <lg>
+                  <l>With him sir <hi>Hugh</hi> had soone agreed.</l>
+                  <l>Into the Country for to goe,</l>
+                  <l>That he might supply his need,</l>
+                  <l>For he was loath himself to show,</l>
+                  <l>Or in his tattered cloaths appeare,</l>
+                  <l>Vnto his <hi>Winifred</hi> so deare.</l>
+               </lg>
+               <lg>
+                  <l>Who now in Prison did remaine.</l>
+                  <l>For <hi>Dioclesian</hi> in those dayes,</l>
+                  <l>Did like a cruell tyrant raigne,</l>
+                  <l>And sought by divers bloody wayes,</l>
+                  <l>The Christian faith how to suppress:</l>
+                  <l>Which faire <hi>Winifred</hi> did professe.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:5"/>
+                  <l>Which when once sir <hi>Hugh</hi> did heare,</l>
+                  <l>That with a shoo-maker then wrought</l>
+                  <l>He tooke his wages for that year,</l>
+                  <l>And therewithal new cloathes he bought:</l>
+                  <l>And so to <hi>Flint-shire</hi> back he went,</l>
+                  <l>Where <hi>Winifred</hi> was resident.</l>
+               </lg>
+               <lg>
+                  <l>Where being come he heard by fame,</l>
+                  <l>How <hi>Winifred</hi> inprisoned was:</l>
+                  <l>And cause he did extoll by name,</l>
+                  <l>Her Virgin faith which did surpasse:</l>
+                  <l>Sir <hi>Hugh</hi> with this beautious Maid,</l>
+                  <l>In a Prison strong was laid.</l>
+               </lg>
+               <lg>
+                  <l>And condemned was to dye,</l>
+                  <l>With <hi>Winifred</hi> to suffer death.</l>
+                  <l>Who both did shew much constancy,</l>
+                  <l>Meaning to resign their breath,</l>
+                  <l>Like loving Martyrs, that their love,</l>
+                  <l>Might be crowned in heaven above</l>
+               </lg>
+               <lg>
+                  <l>And while these faithful Lovers lay,</l>
+                  <l>In the Prison both together:</l>
+                  <l>The Shoo-makers came every day,</l>
+                  <l>And in kindness did present,</l>
+                  <l>Yeelding them so grear reliefe,</l>
+                  <l>As did much asswage their griefe.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:6"/>
+                  <l>The Shoo-makers most faithfully,</l>
+                  <l>Did come unto him in distress,</l>
+                  <l>And while he did in prison lye,</l>
+                  <l>Much kindness to him did profess.</l>
+                  <l>Thus the Shoo-makers were true</l>
+                  <l>And faithful ever to Sir <hi>Hugh.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Who their kindness to require,</l>
+                  <l>Gentlemen did name them all,</l>
+                  <l>And their trade, to do them right,</l>
+                  <l>The Gentle-Craft he then did call,</l>
+                  <l>And in this song before his end,</l>
+                  <l>The Shoo makers he did commend.</l>
+               </lg>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="song">
+                           <lg>
+                              <l>THe Shoo-makers I needs must praise,</l>
+                              <l>Who ready were at all assayes,</l>
+                              <l>To help me at my want and need,</l>
+                              <l>Such friends are true friends indeed.</l>
+                           </lg>
+                           <lg>
+                              <l>For when I was most cast down,</l>
+                              <l>And fortune seem'd on me to frown.</l>
+                              <l>The Gentle-craft I took in hand,</l>
+                              <l>And thereby I my living gain'd.</l>
+                           </lg>
+                           <lg>
+                              <pb facs="tcp:207508:6"/>
+                              <l>Our shooes we sowed, and merry were,</l>
+                              <l>Our Land lords rent we did not fear.</l>
+                              <l>And now to raise the Shoo-makers fame,</l>
+                              <l>The Gentle-Craft I will it name.</l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <lg>
+                  <l>ANd this same title they keep still,</l>
+                  <l>Which unto them sir <hi>Hugh</hi> then gave,</l>
+                  <l>And ever mor<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> continue will:</l>
+                  <l>For in their mi<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> they did engrave</l>
+                  <l>The memory of good sir <hi>Hugh:</hi>
+                  </l>
+                  <l>Who to the trade much love did flew.</l>
+               </lg>
+               <lg>
+                  <l>But now the dismal day was come,</l>
+                  <l>That <hi>Winifred</hi> and sir <hi>Hugh</hi> must dye:</l>
+                  <l>Who like the Lambs receiv'd their doom.</l>
+                  <l>The Tyrants thirst to satisfie.</l>
+                  <l>And so unto that spring they came,</l>
+                  <l>Which retaineth still her name:</l>
+               </lg>
+               <lg>
+                  <l>There a Scaffold raised was,</l>
+                  <l>On which these prisoners mounted were:</l>
+                  <l>She in beauty did surpass,</l>
+                  <l>He with a countenance most clear,</l>
+                  <l>No thine could their hearts dismay:</l>
+                  <l>It seem'd to them a marriage day.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:7"/>
+                  <l>Kindly then they did embrace.</l>
+                  <l>Being full of chaste desires,</l>
+                  <l>Fear could never them deface,</l>
+                  <l>While their love to heaven aspires,</l>
+                  <l>And having so with earth made even.</l>
+                  <l>They kist in hopes to meet in heaven.</l>
+               </lg>
+               <lg>
+                  <l>Then <hi>Winifred</hi> her love to show,</l>
+                  <l>Desired thot she first might dye:</l>
+                  <l>And did desire her freind sir <hi>Hu<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h,</hi>
+                  </l>
+                  <l>To learn of her true consta<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>y,</l>
+                  <l>And learne how to resign his breath,</l>
+                  <l>Who like a Lamb there bled to death.</l>
+               </lg>
+               <lg>
+                  <l>Tyrant, saith she, I sacrifice</l>
+                  <l>My blood to wash away my sins,</l>
+                  <l>And I see even with these eyes,</l>
+                  <l>When life doth end then joy begins;</l>
+                  <l>With that she began to faint,</l>
+                  <l>And as She liv'd dy'd like a Saint,</l>
+               </lg>
+               <lg>
+                  <l>And all the while that she did bleed,</l>
+                  <l>Her blood in basons they did keep:</l>
+                  <l>And with it poyson with all speed,</l>
+                  <l>Was mixt to bring eternal sleep,</l>
+                  <l>Vnto sir <hi>Hugh</hi> who there did dye,</l>
+                  <l>Like to a Martyr constantly.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:7"/>
+                  <l>And greedily he drank a cup</l>
+                  <l>Of <hi>Winifreds</hi> sweete crimson blood:</l>
+                  <l>And then another he drank up,</l>
+                  <l>Vntil he reeld whereas he stood:</l>
+                  <l>For now the poyson did enflame,</l>
+                  <l>And cruelly burn in each vaine.</l>
+               </lg>
+               <lg>
+                  <l>Thou cruel tyrant, then sayes he,</l>
+                  <l>To <hi>Winifred</hi> I sacrifice</l>
+                  <l>My life by thy soul cruelty:</l>
+                  <l>And with those words he forthwith dies,</l>
+                  <l>And now they are called being dead,</l>
+                  <l>Saint <hi>Hugh and</hi> Saint <hi>Winifred,</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But Saint <hi>Hughes</hi> body did remain,</l>
+                  <l>Hanging up even in that place,</l>
+                  <l>Which the Shoo-makers did claime.</l>
+                  <l>And finding him in so bare a case,</l>
+                  <l>The Shoo-makers without delay,</l>
+                  <l>Did steale Saint <hi>Hughes</hi> bones away</l>
+               </lg>
+               <lg>
+                  <l>And all of them to shew their love,</l>
+                  <l>They and Saint <hi>Hugh</hi> while he did live,</l>
+                  <l>His bones from thence they did remove</l>
+                  <l>Which he to them before did give:</l>
+                  <l>And their tooles they for his sake,</l>
+                  <l>Of Saint <hi>Hughes</hi> bones did make.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:8"/>
+                  <l>And now when they do go abroad,</l>
+                  <l>Into the Countrey to and fro,</l>
+                  <l>They travel with a litte load,</l>
+                  <l>For S. <hi>Hughes</hi> bones must with them go,</l>
+                  <l>And if you would their numbers know,</l>
+                  <l>Read these verses here below.</l>
+               </lg>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="poem">
+                           <lg>
+                              <l>
+                                 <hi>A drawer, a dresser, two Wedges, and a heel-block</hi>
+                              </l>
+                              <l>
+                                 <hi>Squar'd like a Dye, whereon we may knock,</hi>
+                              </l>
+                              <l>
+                                 <hi>A hand-leather, &amp; thumb-leather, to pull out shoo-thred:</hi>
+                              </l>
+                              <l>
+                                 <hi>Of needle and thimble we must too be sped,</hi>
+                              </l>
+                              <l>
+                                 <hi>The pincers, the pricking aule, and rubbing stone,</hi>
+                              </l>
+                              <l>
+                                 <hi>The aule, steele, and tackes, and sow-haires well grovvn,</hi>
+                              </l>
+                              <l>
+                                 <hi>The Whetstone, stopping stick, and paring knife</hi>
+                              </l>
+                              <l>
+                                 <hi>Do all belong to a Journey mans life,</hi>
+                              </l>
+                              <l>
+                                 <hi>And in our apron, made of Lambs leather,</hi>
+                              </l>
+                              <l>
+                                 <hi>We shrovvd S. Hughes bones from all vveather.</hi>
+                              </l>
+                           </lg>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+               <lg>
+                  <l>Now he a forfeiture doth pay,</l>
+                  <l>That cannot reckon his tooles in rime:</l>
+                  <l>Sir <hi>Hughes</hi> bones unto this day,</l>
+                  <l>The Shoo-makers do still enshrine</l>
+                  <l>In their aprons thereby to shew</l>
+                  <l>Their faithfull love unto sir <hi>Hugh.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <pb facs="tcp:207508:8"/>
+               <head>
+                  <hi>Chap.</hi> 2.</head>
+               <argument>
+                  <l>How the Emperours daughter Ursula,</l>
+                  <l>with Crispine fell in love,</l>
+                  <l>And were married by a Fryer:</l>
+                  <l>and how the Emperour at last</l>
+                  <l>Did of her choyce approve?</l>
+                  <l>and granted their desire</l>
+                  <l>And how the Shoo-makers with delight,</l>
+                  <l>do sing on <hi>Chrispianus</hi> night.</l>
+               </argument>
+               <lg>
+                  <l>WHen <hi>Maximinus</hi> ruled here,</l>
+                  <l>Then <hi>Crispine</hi> and his brother</l>
+                  <l>Young <hi>Crispianus</hi> counsel'd were</l>
+                  <l>By their most tender mother,</l>
+                  <l>To travel forth into the Land,</l>
+                  <l>That they might scape the Tyrants hand,</l>
+               </lg>
+               <lg>
+                  <l>So being from their Mother gone,</l>
+                  <l>The two young Princes went together,</l>
+                  <l>Like two pretty Lambs alone,</l>
+                  <l>Straying on they knew not whethet:</l>
+                  <l>Vntil at last by chance they came,</l>
+                  <l>Vnto a Town cal'd <hi>Feversham.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>But as they travel'd on the way,</l>
+                  <l>Being now come unto the Town:</l>
+                  <l>Some Shoemakers by peepe of day</l>
+                  <l>Vnto their work were now set down,</l>
+                  <l>Who merrily did sit and sing,</l>
+                  <l>As their work they did begin.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:9"/>
+                  <l>These brothers knocked at the doore,</l>
+                  <l>And for a service they did ask:</l>
+                  <l>Telling them they were true but poor</l>
+                  <l>For povertie is like a mask.</l>
+                  <l>Which did their princely beauty hide,</l>
+                  <l>Or else they would have been discryde.</l>
+               </lg>
+               <lg>
+                  <l>The Shoo-maker both and his wife,</l>
+                  <l>Did like the pretty boyes right well:</l>
+                  <l>And ask'd them of their former life,</l>
+                  <l>While they a fained tale did tell:</l>
+                  <l>But at the last short work to make,</l>
+                  <l>They for their servants did them take.</l>
+               </lg>
+               <lg>
+                  <l>Thus they unto their work did frame,</l>
+                  <l>And pleased their Master so,</l>
+                  <l>That he these brothers did maintaine,</l>
+                  <l>That they no want did know.</l>
+                  <l>Who in a little time did learn,</l>
+                  <l>The trade, and did their living earne.</l>
+               </lg>
+               <lg>
+                  <l>And now their masters fame was spread,</l>
+                  <l>His Shooes was sent for farre and neere:</l>
+                  <l>And t'was reported that he bred</l>
+                  <l>His Iourney-men with love and feare:</l>
+                  <l>So that he did often use,</l>
+                  <l>Vnto the Court to send his Shooes.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:9"/>
+                  <l>It hapened that young <hi>Crispine</hi> came,</l>
+                  <l>To bring some shooes unto the Court:</l>
+                  <l>Where the Emperors daughter soon became</l>
+                  <l>In love with him in earnest sort:</l>
+                  <l>For <hi>Cupid</hi> with a powerful shaft.</l>
+                  <l>Did mean to grace the Gentle-craft.</l>
+               </lg>
+               <lg>
+                  <l>And having wounded thus her brest,</l>
+                  <l>Fair <hi>Ursula</hi> did now begin,</l>
+                  <l>
+                     <gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o be with pangs of love opprest:</l>
+                  <l>But yet she knew not how to winne</l>
+                  <l>
+                     <hi>Crispine</hi> to her hearts desire,</l>
+                  <l>Who durst not to her Love aspire.</l>
+               </lg>
+               <lg>
+                  <l>Yet love did make her now grow bold,</l>
+                  <l>And when he came with shooes again</l>
+                  <l>Her love to him she did unfold:</l>
+                  <l>Which quickly did his heart enflame,</l>
+                  <l>Yet at the first he was amaz'd,</l>
+                  <l>While he on her beauty gaz'd.</l>
+               </lg>
+               <lg>
+                  <l>But yet at last he thus reply'd,</l>
+                  <l>Madam, stuce you are inclin'd,</l>
+                  <l>To make your self poor <hi>Crispines</hi> bride</l>
+                  <l>I shall be glad to please your minde;</l>
+                  <l>And here my faith to you I bow:</l>
+                  <l>If my service you allow.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:10"/>
+                  <l>This being said they both agreed,</l>
+                  <l>That they should meet within the parke,</l>
+                  <l>Where a blind Fryer with all speed,</l>
+                  <l>Should marry them in the darke</l>
+                  <l>The Fryer this knot had quickly tide,</l>
+                  <l>Thus <hi>Uusula</hi> was <hi>Crispines</hi> bride.</l>
+               </lg>
+               <lg>
+                  <l>And so the Fryer they did dismiss</l>
+                  <l>And royally they did him pay:</l>
+                  <l>That the poor Fryer he did wish</l>
+                  <l>All joy unto their wedding day,</l>
+                  <l>And that they might be a happy pair,</l>
+                  <l>Free from sad annoy and care.</l>
+               </lg>
+               <lg>
+                  <l>But now the place did them invite,</l>
+                  <l>Being in the Park thus met,</l>
+                  <l>For to tast of loves delight:</l>
+                  <l>And while they were together set,</l>
+                  <l>Vpon her Virgin wax he seal'd</l>
+                  <l>The band of Love, which time reveal'd.</l>
+               </lg>
+               <lg>
+                  <l>But now these lovers parted were,</l>
+                  <l>Fair <hi>Ursula</hi> was pleased well:</l>
+                  <l>But <hi>Crispine</hi> comming home did hear</l>
+                  <l>The Iourney-men begin to tell:</l>
+                  <l>How <hi>Crispianus</hi> was lately prest,</l>
+                  <l>To be a Souldier with the rest,</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:10"/>
+                  <l>For <hi>Maximinus</hi> hath sent to <hi>France,</hi>
+                  </l>
+                  <l>An army of stout men and tall,</l>
+                  <l>In war to try their doubtfull chance,</l>
+                  <l>Against the <hi>Persian</hi> General,</l>
+                  <l>Who meeting bravely in the field.</l>
+                  <l>Both sides scorned much to yeeld,</l>
+               </lg>
+               <lg>
+                  <l>How <hi>Crispianus</hi> get much fame,</l>
+                  <l>And when the Prince of <hi>Gaules</hi> did fight,</l>
+                  <l>With brave <hi>Iphricrates</hi> by name,</l>
+                  <l>Who rescu'd him there in their fight,</l>
+                  <l>And by his valour bore away,</l>
+                  <l>All the glory of the day,</l>
+               </lg>
+               <lg>
+                  <l>Thus nine moneths he abroad did spend,</l>
+                  <l>But when once that time expir'd,</l>
+                  <l>Fair <hi>Ursula</hi> did to <hi>Crispine</hi> send,</l>
+                  <l>To have his counsel she required:</l>
+                  <l>For now <hi>Ursula</hi> did feel</l>
+                  <l>A Timpany with a double heel.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>Crispine</hi> with his dame did plot,</l>
+                  <l>Entreating her for secrecy:</l>
+                  <l>And so at last a place they got,</l>
+                  <l>Where she might deliver'd be,</l>
+                  <l>And here the Lady was brought a bed,</l>
+                  <l>Who from her Fathers anger fled,</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:11"/>
+                  <l>And just unto the Christning day,</l>
+                  <l>Come <hi>Crispianus</hi> back again,</l>
+                  <l>VVho long in <hi>France</hi> had been away,</l>
+                  <l>And there had gotten endlesse fame.</l>
+                  <l>Thus every thing did hit out right,</l>
+                  <l>To increase joy and delight.</l>
+               </lg>
+               <lg>
+                  <l>Aftet this same day was past,</l>
+                  <l>Being spent in mirth and sport,</l>
+                  <l>
+                     <hi>Crispianus</hi> did make hast,</l>
+                  <l>VVith his letters to the Court,</l>
+                  <l>VVhich when the Emperour did view,</l>
+                  <l>VVith wonder he astonisht grew.</l>
+               </lg>
+               <lg>
+                  <l>And <hi>Crispianus</hi> he did commend,</l>
+                  <l>Taking a jewel from his neck,</l>
+                  <l>VVhich he only did intend,</l>
+                  <l>That he himself therewith might deck:</l>
+                  <l>Thus it was <hi>Crispianus</hi> chance,</l>
+                  <l>That the wars should him advance.</l>
+               </lg>
+               <lg>
+                  <l>But this being past and done:</l>
+                  <l>News was to the Emperour brought,</l>
+                  <l>That his daughter was newly come,</l>
+                  <l>For whom before they had so sought:</l>
+                  <l>And gave the Emperour to understand</l>
+                  <l>That a Shoo-maker led her by the hand,</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:11"/>
+                  <l>The Emperour did them welcome make,</l>
+                  <l>And welcom'd <hi>Crispine</hi> too by name</l>
+                  <l>Bidding young <hi>Crispianus</hi> take</l>
+                  <l>His daughter to advance his fame.</l>
+                  <l>But <hi>Ursula</hi> did the same deny,</l>
+                  <l>And to her Father thus reply.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Crispine</hi> sayes she deserves my love,</l>
+                  <l>Although a Shoo-maker be seem,</l>
+                  <l>Of him I always will approve,</l>
+                  <l>And now to marry him I mean,</l>
+                  <l>Dear father look upon this boy,</l>
+                  <l>VVhich I do hope will prove your joy.</l>
+               </lg>
+               <lg>
+                  <l>And so <hi>Crispines</hi> Dame did bring</l>
+                  <l>VVithin her armes the pretty child,</l>
+                  <l>And dandling it began to sing,</l>
+                  <l>VVhile that the Infant sweetly smil'd,</l>
+                  <l>Yet though it lookt with cheerfull eyes,</l>
+                  <l>The Emperour did the have dispise.</l>
+               </lg>
+               <lg>
+                  <l>But when that once he knew,</l>
+                  <l>His Daughter was the Mother:</l>
+                  <l>And that <hi>Crispine</hi> then in view</l>
+                  <l>VVas <hi>Crispianus</hi> brother,</l>
+                  <l>The Emperour greatly did rejoyce,</l>
+                  <l>And confirm'd his daughters choyce.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:12"/>
+                  <l>Then there was joy and triumph great,</l>
+                  <l>And the story here doth say,</l>
+                  <l>The Shoo-makers did leave their seat,</l>
+                  <l>And did make it holy-day.</l>
+                  <l>And Poets did new masks invent,</l>
+                  <l>For the Emperors merriment.</l>
+               </lg>
+               <lg>
+                  <l>And afterward still every year,</l>
+                  <l>Vpon that day at night,</l>
+                  <l>The Shoo-makers do make great cheer,</l>
+                  <l>With solace and delight,</l>
+                  <l>This day doth light still in <hi>October</hi>
+                  </l>
+                  <l>The Shoo-makers are then scarce sober.</l>
+               </lg>
+               <div type="song">
+                  <head>The Shoo-makers song on <hi>Crispianus</hi> night.</head>
+                  <lg>
+                     <l>YOu that the Gentle-craft profess,</l>
+                     <l>unto my song give ear,</l>
+                     <l>You shall the story of <hi>Crispine,</hi>
+                     </l>
+                     <l>and <hi>Crispianus</hi> hear.</l>
+                  </lg>
+                  <lg>
+                     <l>They vvere the sons unto a King,</l>
+                     <l>of <hi>Logria</hi> by name,</l>
+                     <l>Whom <hi>Maximinus</hi> put to death</l>
+                     <l>and cruelly had slain.</l>
+                  </lg>
+                  <lg>
+                     <l>The sons novv fearing to partake,</l>
+                     <l>of his sad tyranny,</l>
+                     <l>Were by their Mother most disguis'd</l>
+                     <l>who bid them for to flie.</l>
+                  </lg>
+                  <lg>
+                     <pb facs="tcp:207508:12"/>
+                     <l>Unto a Shoomaker they came,</l>
+                     <l>and entertained were:</l>
+                     <l>Whereby the Gentle-craft</l>
+                     <l>much graced did appear.</l>
+                  </lg>
+                  <lg>
+                     <l>These Princes were of this same trade,</l>
+                     <l>who both grevv up in fame:</l>
+                     <l>For <hi>Crispianus</hi> went to the Wars,</l>
+                     <l>and <hi>Crispin</hi> to Court came.</l>
+                  </lg>
+                  <lg>
+                     <l>And so it happened <hi>Ʋrsula,</hi>
+                     </l>
+                     <l>the Emperours daughter fair,</l>
+                     <l>Did fall in love with <hi>Crispine</hi> young,</l>
+                     <l>which bred her grief and care.</l>
+                  </lg>
+                  <lg>
+                     <l>For not long after <hi>Ʋrsula</hi>
+                     </l>
+                     <l>with child by him did prove,</l>
+                     <l>Such are the fruits which always do</l>
+                     <l>proceed from stolen love.</l>
+                  </lg>
+                  <lg>
+                     <l>But he at length by help of friends,</l>
+                     <l>the Emperours love did gain:</l>
+                     <l>And <hi>Crispianus</hi> from the vva<gap reason="illegible" resp="#keyers" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>s,</l>
+                     <l>did back return with fame</l>
+                  </lg>
+                  <lg>
+                     <l>Then let us all be merry here,</l>
+                     <l>vvith solace and delight:</l>
+                     <l>And drink a health unto them both,</l>
+                     <l>on <hi>Crispianus</hi> night.</l>
+                  </lg>
+               </div>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:207508:13"/>
+               <head>
+                  <hi>Chap.</hi> 3.</head>
+               <argument>
+                  <l>How Sir <hi>Simon Eyre,</hi>
+                  </l>
+                  <l>a Shoo-maker by trade:</l>
+                  <l>A feast for all the Prentices,</l>
+                  <l>upon <hi>Shrove-Tuesday</hi> made.</l>
+               </argument>
+               <lg>
+                  <l>OVr English Chronicles do declare</l>
+                  <l>A story worthy to be known</l>
+                  <l>Of one by name sir <hi>Simon Eyre,</hi>
+                  </l>
+                  <l>Who in a short time full rich was grown,</l>
+                  <l>His parentage mean, yet his name</l>
+                  <l>Liveth still in lasting fame.</l>
+               </lg>
+               <lg>
+                  <l>This man came young out of the North,</l>
+                  <l>And here he was a Prentice bound,</l>
+                  <l>Vnto a Shoo-maker of good worth:</l>
+                  <l>His Master no dislike yet found,</l>
+                  <l>With his Prentice but all was well,</l>
+                  <l>And afterwards it thus befell.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Simon</hi> with other Prentices more,</l>
+                  <l>Vpon a Sunday morning went,</l>
+                  <l>As they had often done before,</l>
+                  <l>To eae some pudding-pyes was their intent.</l>
+                  <l>But when the shot came once to pay,</l>
+                  <l>
+                     <hi>Simon</hi> thus to them did say,</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:207508:13"/>
+                  <l>My Masters and friends here all,</l>
+                  <l>Of my empty purse take pitty;</l>
+                  <l>And I do vow if it so befall,</l>
+                  <l>That I am Lord Major of this City,</l>
+                  <l>If you my word will now but take,</l>
+                  <l>A breakfast for you I will make.</l>
+               </lg>
+               <lg>
+                  <l>The other Prentices took his word,</l>
+                  <l>And for that time they paid the shot:</l>
+                  <l>But afterward it was restor'd,</l>
+                  <l>For he such wealth and treasure got,</l>
+                  <l>That in short time this <hi>Simon Eyre,</hi>
+                  </l>
+                  <l>VVas made Sheriff, and after Major.</l>
+               </lg>
+               <lg>
+                  <l>His promise then he kept in mind,</l>
+                  <l>So that a breakfest he did make,</l>
+                  <l>For all the Prentices he could find,</l>
+                  <l>VVho kept it holiday for his sake.</l>
+                  <l>And that his love might be exprest,</l>
+                  <l>Vpon Shrobe Tuesday did them feast.</l>
+               </lg>
+               <lg>
+                  <l>And afterward Sir <hi>Simon Eyre,</hi>
+                  </l>
+                  <l>Did build up Leaden-Hall:</l>
+                  <l>That Shoo-makers might so repair</l>
+                  <l>Vnto the Tanners stall.</l>
+                  <l>Thus for Shoo-makers he did provide,</l>
+                  <l>And afterwards in honour dy'd.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
